@@ -1,0 +1,8 @@
+pages\AccountSuccessPage.class
+pages\LoginPage.class
+utils\ComonUtils.class
+pages\HomePage.class
+pages\SearchPage.class
+utils\ConfigReader.class
+pages\AccountPage.class
+pages\RegisterPage.class
